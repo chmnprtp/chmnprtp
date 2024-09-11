@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arijitparia2002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=chmnprtp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
-<h1 align="center">👋 Hello, I'm Arijit Paria!</h1>
-<h3 align="center">Developer | Founding SDE at <a href="https://www.linkedin.com/company/tasklabs/">TaskLabs</a> | Creator of <a href="https://www.youtube.com/@tutoriex_">TUTORIEX</a></h3>
+<h1 align="center">👋 Hello, I'm Chaman Pratap!</h1>
+ <h3 align="center">Developer | Founding SDE at <a href="https://www.linkedin.com/company/tasklabs/">TaskLabs</a> | Creator of <a href="https://www.youtube.com/@tutoriex_">TUTORIEX</a></h3>
 
 ---
 
@@ -11,17 +11,17 @@
 
 - 🔭 I’m currently working on [QuickTask AI - Bard and ChatGPT App](https://chrome.google.com/webstore/detail/quicktask-ai-bard-and-cha/enkpdkkepcfneniefhijllbcohejkcjk)
 - 🌱 I’m diving deep into **Next Js & DevOps**
-- 💌 How to reach me: <a href="mailto:arijitparia2020@gmail.com">arijitparia2020@gmail.com</a>
+- 💌 How to reach me: <a href="mailto:chmnprtp@gmail.com">chmnprtp@gmail.com</a>
 
 ---
 
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://instagram.com/arijitparia_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-  <a href="https://linkedin.com/in/arijit-paria-0234261b7"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="https://pinterest.com/arijitparia2020"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"></a>
-  <a href="https://youtube.com/@TUTORIEX_"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
+  <a href="https://instagram.com/chmnprtp"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+  <a href="https://linkedin.com/in/chmnprtp"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+  <a href="https://pinterest.com/chmnprtp"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"></a>
+  <a href="https://youtube.com/@chmnprtp"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
 </p>
 
 ---
@@ -29,7 +29,7 @@
 ## 🛠️ Tech Stack
 
 ### Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
