@@ -53,19 +53,19 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arijitparia2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arijitparia2002&theme=dark&hide_border=false">
+  <img src="https://github-readme-stats.vercel.app/api?username=chmnprtp&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chmnprtp&theme=dark&hide_border=false">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chmnprtp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arijitparia2002&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=chmnprtp&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 </p>
 
 <p align="center">
-  <img src="https://github.com/arijitparia2002/arijitparia2002/blob/output/github-contribution-grid-snake.gif">
+  <img src="https://github.com/chmnprtp/chmnprtp/blob/output/github-contribution-grid-snake.gif">
 </p>
 
 ---
