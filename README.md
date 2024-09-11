@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">👋 Hello, I'm Chaman Pratap!</h1>
- <h3 align="center">Developer | Founding SDE at <a href="https://www.linkedin.com/company/tasklabs/">TaskLabs</a> | Creator of <a href="https://www.youtube.com/@tutoriex_">TUTORIEX</a></h3>
+<!--  <h3 align="center">Developer | Founding SDE at <a href="https://www.linkedin.com/company/tasklabs/">TaskLabs</a> | Creator of <a href="https://www.youtube.com/@tutoriex_">TUTORIEX</a></h3> -->
+<h3 align="center">Developer</h3>
 
 ---
 
