@@ -73,6 +73,6 @@
 <p align="center">
   <strong>Support My Work:</strong><br>
   <a href="https://p.paytm.me/xCTH/dq8b89i7"><img src="https://www.logo.wine/a/logo/Paytm/Paytm-Logo.wine.svg" alt="Paytm" width="100"></a>
-  <a href="https://buymeacoffee.com/arijitparia"><img src="https://www.logo.wine/a/logo/PayPal/PayPal-Logo.wine.svg" alt="PayPal" width="100"></a>
-  <a href="https://buymeacoffee.com/arijitparia"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" alt="Buy Me A Coffee" width="100"></a>
+  <a href="https://buymeacoffee.com/chmnprtp"><img src="https://www.logo.wine/a/logo/PayPal/PayPal-Logo.wine.svg" alt="PayPal" width="100"></a>
+  <a href="https://buymeacoffee.com/chmnprtp"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" alt="Buy Me A Coffee" width="100"></a>
 </p>
