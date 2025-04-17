@@ -78,5 +78,5 @@
 
 ---
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragjain24&" alt="chiragjain24" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragjain24&show_icons=true&locale=en&layout=compact" alt="chiragjain24" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chmnprtp&" alt="chmnprtp" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chmnprtp&show_icons=true&locale=en&layout=compact" alt="chmnprtp" />
