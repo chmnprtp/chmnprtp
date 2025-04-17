@@ -10,7 +10,7 @@
 
 - 💻 Check out some of my projects : **[PriceWave](https://pricewave.vercel.app/), [PlayTrend](https://playtrend.vercel.app), [Portfolio](https://portfolio-chiragjain.vercel.app/), [CVSyncer](https://cvsyncer-7zw1j61y.b4a.run/), [LockSafe](https://locksafe.vercel.app/).**
 
-- 👨‍💻 All of my projects are available at **[portfolio-chiragjain.vercel.app](https://portfolio-ChamanPratap.vercel.app)**
+- 👨‍💻 All of my projects are available at **[portfolio-ChamanPratap.vercel.app](https://portfolio-ChamanPratap.vercel.app)**
 
 - 📫 How to reach me : **chmnprtp@gmail.com**
 
