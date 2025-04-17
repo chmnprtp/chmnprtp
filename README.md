@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything xD
 
-- ⚡ Fun fact : **I love Tech and Music.**
+- ⚡ Fun fact : **I love Tech and Cricket.**
 
 - 💻 Check out some of my projects : **[PriceWave](https://pricewave.vercel.app/), [PlayTrend](https://playtrend.vercel.app), [Portfolio](https://portfolio-chiragjain.vercel.app/), [CVSyncer](https://cvsyncer-7zw1j61y.b4a.run/), [LockSafe](https://locksafe.vercel.app/).**
 
