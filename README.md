@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at **[portfolio-chiragjain.vercel.app](https://portfolio-chiragjain.vercel.app)**
 
-- 📫 How to reach me : **chiragjain8382@gmail.com**, **chiragjain_ep22b4_30@dtu.ac.in**
+- 📫 How to reach me : **chmnprtp@gmail.com**
 
 
 <h3 align="left">Languages:</h3>
