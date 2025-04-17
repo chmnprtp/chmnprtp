@@ -1,79 +1,82 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chmnprtp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px"> I'm Chaman Pratap</h1>
+<h3 align="center">A Tech Enthusiast with passion for Software Development</h3>
 
-<h1 align="center">👋 Hello, I'm Chaman Pratap!</h1>
-<!--  <h3 align="center">Developer | Founding SDE at <a href="https://www.linkedin.com/company/tasklabs/">TaskLabs</a> | Creator of <a href="https://www.youtube.com/@tutoriex_">TUTORIEX</a></h3> -->
-<h3 align="center">Developer</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chmnprtp&label=Profile%20views&color=0e75b6&style=flat" alt="chmnprtp" /> </p>
 
-## 🚀 About Me
+- 🌱 I’m currently learning everything xD
 
-- 🔭 I’m currently working on [QuickTask AI - Bard and ChatGPT App](https://chrome.google.com/webstore/detail/quicktask-ai-bard-and-cha/enkpdkkepcfneniefhijllbcohejkcjk)
-- 🌱 I’m diving deep into **Next Js & DevOps**
-- 💌 How to reach me: <a href="mailto:chmnprtp@gmail.com">chmnprtp@gmail.com</a>
+- ⚡ Fun fact : **I love Tech and Music.**
 
----
+- 💻 Check out some of my projects : **[PriceWave](https://pricewave.vercel.app/), [PlayTrend](https://playtrend.vercel.app), [Portfolio](https://portfolio-chiragjain.vercel.app/), [CVSyncer](https://cvsyncer-7zw1j61y.b4a.run/), [LockSafe](https://locksafe.vercel.app/).**
 
-## 🌐 Let's Connect!
+- 👨‍💻 All of my projects are available at **[portfolio-chiragjain.vercel.app](https://portfolio-chiragjain.vercel.app)**
 
-<p align="center">
-  <a href="https://instagram.com/chmnprtp"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-  <a href="https://linkedin.com/in/chmnprtp"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="https://pinterest.com/chmnprtp"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"></a>
-  <a href="https://youtube.com/@chmnprtp"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
-</p>
+- 📫 How to reach me : **chiragjain8382@gmail.com**, **chiragjain_ep22b4_30@dtu.ac.in**
 
----
 
-## 🛠️ Tech Stack
-
-### Languages:
-![C++](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Frameworks & Libraries:
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-### Tools & Platforms:
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chmnprtp&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chmnprtp&theme=dark&hide_border=false">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chmnprtp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<h3 align="left">Languages:</h3>
+<p align="left">
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40px" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40px" />
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40px" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS" width="40px" />
+  </a>
+   <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40px" />
+  </a> 
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express" width="40px" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40px" />
+  </a>  
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+    </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chmnprtp&theme=radical&no-frame=false&no-bg=false&margin-w=4">
-</p>
-
-<p align="center">
-  <img src="https://github.com/chmnprtp/chmnprtp/blob/output/github-contribution-grid-snake.gif">
+<h3 align="left">Tools:</h3>
+<p align="left">
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    </a>
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/ab6512bb782e2156702db4ecd044403b0517e42d42f515b26a6d5502c25f29b4/68747470733a2f2f6672616d657275736572636f6e74656e742e636f6d2f696d616765732f34386861395a52396f5a51475136675a38595566456c50335430412e706e67" alt="framerMotion" width="40" height="40"/> </a> 
+      <a href="https://www.postman.com/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman" width="40px" />
+  </a>
+    <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40px" />
+  </a> 
 </p>
 
 ---
 
-<p align="center">
-  <strong>Support My Work:</strong><br>
-  <a href="https://p.paytm.me/xCTH/dq8b89i7"><img src="https://www.logo.wine/a/logo/Paytm/Paytm-Logo.wine.svg" alt="Paytm" width="100"></a>
-  <a href="https://buymeacoffee.com/chmnprtp"><img src="https://www.logo.wine/a/logo/PayPal/PayPal-Logo.wine.svg" alt="PayPal" width="100"></a>
-  <a href="https://buymeacoffee.com/chmnprtp"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" alt="Buy Me A Coffee" width="100"></a>
+<h3>Coding Platforms:</h3>
+<p>
+<a href="https://www.leetcode.com/chiragjain8382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chiragjain8382" height="40" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/chiragja2gdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chiragja2gdu" height="40" width="40" /></a>
 </p>
+
+---
+
+<h3>Connect with me:</h3>
+<p>
+<a href="https://linkedin.com/in/chirag-jain8382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag-jain8382" height="30" width="40" /></a>
+</p>
+
+---
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragjain24&" alt="chiragjain24" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragjain24&show_icons=true&locale=en&layout=compact" alt="chiragjain24" />
