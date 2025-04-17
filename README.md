@@ -65,15 +65,15 @@
 
 <h3>Coding Platforms:</h3>
 <p>
-<a href="https://www.leetcode.com/chiragjain8382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chiragjain8382" height="40" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/chiragja2gdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chiragja2gdu" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/chmnprtp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chmnprtp" height="40" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/chmnprtp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chmnprtp" height="40" width="40" /></a>
 </p>
 
 ---
 
 <h3>Connect with me:</h3>
 <p>
-<a href="https://linkedin.com/in/chirag-jain8382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag-jain8382" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chmnprtp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag-jain8382" height="30" width="40" /></a>
 </p>
 
 ---
