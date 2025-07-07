@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning everything xD  
 - ⚡ Fun fact: **I love Tech and Cricket.**  
 - 💻 Check out some of my projects:  
-  <a href="https://smarttext-tools.netlify.app/" target="_blank">TextUtils</a> |
+  [TextUtils](https://smarttext-tools.netlify.app) | 
   
 - 👨‍💻 All of my projects are available at: [portfolio-chamanpratap.vercel.app](https://portfolio-chamanpratap.vercel.app)  
 - 📫 How to reach me: **chmnprtp@gmail.com**
