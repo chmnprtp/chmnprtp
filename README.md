@@ -10,11 +10,8 @@
 - 🌱 I’m currently learning everything xD  
 - ⚡ Fun fact: **I love Tech and Cricket.**  
 - 💻 Check out some of my projects:  
-  [TextUtils](https://smarttext-tools.netlify.app/) | 
-  [PlayTrend](https://playtrend.vercel.app) | 
-  [Portfolio](https://portfolio-chiragjain.vercel.app/) | 
-  [CVSyncer](https://cvsyncer-7zw1j61y.b4a.run/) | 
-  [LockSafe](https://locksafe.vercel.app/)  
+  <a href="https://smarttext-tools.netlify.app/" target="_blank">TextUtils</a> |
+  
 - 👨‍💻 All of my projects are available at: [portfolio-chamanpratap.vercel.app](https://portfolio-chamanpratap.vercel.app)  
 - 📫 How to reach me: **chmnprtp@gmail.com**
 
